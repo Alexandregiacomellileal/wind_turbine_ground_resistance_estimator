@@ -1,6 +1,7 @@
 # Integrated approach for wind turbine grounding resistance estimation: Bridging clamp-on ground meter, computational simulations, and machine learning.
 
-<img width="1666" alt="image" src="https://github.com/Alexandregiacomellileal/Update-computacional-tool/assets/96079504/d40874aa-487c-4722-abfe-1cff32cfbd77">
+![github_entrada](https://github.com/Alexandregiacomellileal/wind_turbine_ground_resistance_estimator/assets/96079504/b6df352b-5d8a-4135-840d-ff6c4a76ad80)
+
 
 ## Associated research paper
 Integrated approach for wind turbine grounding resistance estimation: Bridging clamp-on ground meter, computational simulations, and machine learning
